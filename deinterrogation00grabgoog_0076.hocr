@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deinterrogation00grabgoog_0076.png"; bbox 0 0 3125 4900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 69 399 897 479">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 69 399 897 479">
+     <span class='ocr_line' id='line_1_1' title="bbox 69 399 897 479; baseline -0.014 1"><span class='ocrx_word' id='word_1_1' title='bbox 69 415 113 479; x_wconf 71' lang='grc' dir='ltr'><strong><em>Ξ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 177 411 373 479; x_wconf 66' lang='grc' dir='ltr'>2ῡ44</span> <span class='ocrx_word' id='word_1_3' title='bbox 437 407 581 475; x_wconf 68' lang='lat'>035</span> <span class='ocrx_word' id='word_1_4' title='bbox 645 399 897 471; x_wconf 66' lang='lat'>2032</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 17 195 2038 472">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 17 28 2038 487">
+     <span class='ocr_line' id='line_1_2' title="bbox 17 195 2038 472; baseline -0.018 -72.713"><span class='ocrx_word' id='word_1_5' title='bbox 17 211 181 399; x_wconf 54' lang='lat' dir='ltr'>Quam</span> <span class='ocrx_word' id='word_1_6' title='bbox 182 203 529 399; x_wconf 60' lang='lat' dir='ltr'>.11¹n‘u!1u¹mnw1</span> <span class='ocrx_word' id='word_1_7' title='bbox 533 203 629 391; x_wconf 54' lang='lat' dir='ltr'>mun</span> <span class='ocrx_word' id='word_1_8' title='bbox 629 195 1041 391; x_wconf 44' lang='lat' dir='ltr'>*w*numuwnnuwnu</span> <span class='ocrx_word' id='word_1_9' title='bbox 1277 312 1322 367; x_wconf 16' lang='grc' dir='ltr'>,κ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1873 435 1957 472; x_wconf 9' lang='lat' dir='ltr'>oe,</span> <span class='ocrx_word' id='word_1_11' title='bbox 2018 312 2038 347; x_wconf 19' lang='grc' dir='ltr'>,Α</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2498 4900">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2498 4900">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2498 4900; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2498 4900; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
